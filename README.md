@@ -1,2 +1,3 @@
 # first
-hello github
+# who am 
+# im Ashoja
